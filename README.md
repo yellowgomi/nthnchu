@@ -21,7 +21,7 @@
   </tbody>
 </table>-->
 
-<img height="125" width="325" src="http://localhost/Code/nthnchu/assets/hi.svg"><br>
+<img height="125" width="325" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/hi.svg"><br>
 I'm (@nthnchu)[https://github.com/nthnchu]
 
 <!--
