@@ -22,7 +22,7 @@
 </table>-->
 
 <img height="125" width="325" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/hi.svg"><br>
-I'm (@nthnchu)[https://github.com/nthnchu]
+# I'm [@nthnchu](https://github.com/nthnchu)
 
 <!--
 **nthnchu/nthnchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
