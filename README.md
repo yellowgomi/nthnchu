@@ -20,14 +20,11 @@
     </tr>
   </tbody>
 </table>-->
-<table>
-<tbody>
-<tr>
-  <td>
-    <img align="right" alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&show_icons=true">
-  </td>
-  <td>
-    <img align="left" height="125" width="325" alt="Hi There! 👋" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/hi.svg"><br>
+<div>
+<img align="right" alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&show_icons=true">
+<img height="125" width="325" alt="Hi There! 👋" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/hi.svg">
+  </div>
+  <br>
   </td>
 </tr>
 </tbody>
