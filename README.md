@@ -21,9 +21,9 @@
   </tbody>
 </table>-->
 
-<img height="125" width="325" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/hi.svg"><br>
-# I'm [@nthnchu](https://github.com/nthnchu)
-
+<img align="right" alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&show_icons=true">
+<img align="left" height="125" width="325" alt="Hi There! 👋" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/hi.svg"><br>
+<h1>I'm <a href="https://github.com/nthnchu">@nthnchu</a></h1>
 <!--
 **nthnchu/nthnchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+!
