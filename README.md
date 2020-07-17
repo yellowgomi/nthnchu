@@ -30,8 +30,7 @@
 </tbody>
 </table>
 <h1>I'm <a href="https://github.com/nthnchu">@nthnchu</a></h1>
-<h2>NPM REGISTRY DOWN!<h2>
- Or at least it is for me
+
 <!--
 **nthnchu/nthnchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
