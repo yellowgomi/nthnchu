@@ -21,7 +21,7 @@
   </tbody>
 </table>-->
 <div>
-<img align="right" alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&show_icons=true">
+<img align="right" alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&count_private=true&show_icons=true">
 <br><br><img height="125" width="315" alt="Hi There! 👋" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/hi.svg">
   </div>
   <br>
