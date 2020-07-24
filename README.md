@@ -21,8 +21,8 @@
   </tbody>
 </table>-->
 <div>
-<img align="right" alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&count_private=true&show_icons=true">
-<br><br><img height="125" width="315" alt="Hi There! 👋" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/hi.svg">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthnchu">
+<img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&count_private=true&show_icons=true">
   </div>
   <br>
   </td>
