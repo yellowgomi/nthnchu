@@ -22,7 +22,7 @@
 </table>-->
 <div>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthnchu">
-<img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&count_private=true&show_icons=true">
+<img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&count_private=true&line_height=27&show_icons=true">
   </div>
   <br>
   </td>
