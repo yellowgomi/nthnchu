@@ -1,7 +1,8 @@
 <h1 align="center">I'm Nathan Chu</h1>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthnchu">
-<img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&count_private=true&line_height=27&show_icons=true">
-
+<div align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthnchu">
+  <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&count_private=true&line_height=27&show_icons=true">
+</div>
 <!--
 **nthnchu/nthnchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
