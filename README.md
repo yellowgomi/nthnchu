@@ -1,6 +1,6 @@
 <h1 align="center">I'm Nathan Chu</h1>
 <div align="center">
-  <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&count_private=true&line_height=27&show_icons=true&hide=issues">
+  <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&count_private=true&line_height=27&show_icons=true&hide=issues,stars">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthnchu&layout=compact">
 </div>
 <!--
