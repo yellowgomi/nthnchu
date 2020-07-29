@@ -1,4 +1,4 @@
-<h1 align="center">I'm Nathan Chu</h1>
+<h1 align="center">I'm Nathan Chu &nbsp;&nbsp;&nbsp;<a href="https://nathanchu.com/"><img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/link.svg"></a><a href="https://github.com/nthnchu">&nbsp;&nbsp;&nbsp;<img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/github-mark.svg"></a></h1>
 <div align="center">
   <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&count_private=true&line_height=27&show_icons=true">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthnchu">
