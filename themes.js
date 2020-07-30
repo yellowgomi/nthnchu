@@ -5,7 +5,7 @@ fs.readFile('src/README.md', 'utf8', function (err,data) {
   if (err) {
     return console.error(err);
   }
-  const result = data.replace(/'{{ random_theme }}'/g, theme);
+  const result = data.replace(/{{ random_theme }}/g, theme);
 
   fs.writeFile("README.md", result, 'utf8', function (err) {
      if (err) return console.error(err);
