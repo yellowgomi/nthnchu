@@ -33,6 +33,4 @@ jobs:
         git config user.email "${{ secrets.EMAIL }}"
         git add README.md
         git commit -m "Change Theme"
-        git reset --soft HEAD~2
-        git commit -m "Change Theme"
         git push https://${{ secrets.GITHUB_ACTOR }}:${{ secrets.GITHUB_TOKEN }}@github.com/nthnchu/nthnchu.git master
