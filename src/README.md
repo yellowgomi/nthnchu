@@ -17,7 +17,10 @@
  <h3>Hi There 👋! Welcome to my GitHub profile!</h3>
  <ul>
   <li>
-   🔭 I’m currently working on: <br />
+   <b>
+    🔭 I’m currently working on:
+   </b>
+   <br />
    <img src="https://github-readme-stats.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme={{ random_theme }}">
   </li>
   <!--<li>
