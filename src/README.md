@@ -21,7 +21,7 @@
     🔭 I’m currently working on:
     <br />
     <br />
-    <img alt="rayyansaidi-com/app" src="https://github-readme-stats.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme={{ random_theme }}">
+    <img alt="rayyansaidi-com/app" src="https://github-readme-stats.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme={{ random_theme }}&v=2">
    </li>
    <!--<li>
     🌱 I’m currently learning ...
