@@ -1,3 +1,4 @@
+ <div align="center">
   <h1 align="center">
     I'm Nathan Chu
     &nbsp;&nbsp;&nbsp;
@@ -19,6 +20,7 @@
       </p>
     </sub>
   </div>
+</div>
 <!--
 **nthnchu/nthnchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
