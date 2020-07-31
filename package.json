@@ -1,0 +1,22 @@
+{
+  "name": "nthnchu",
+  "version": "1.0.0",
+  "description": "My GitHub profile README.md",
+  "scripts": {
+    "theme": "node theme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nthnchu/nthnchu.git"
+  },
+  "author": "nthnchu",
+  "license": "GPL-v3-only",
+  "bugs": {
+    "url": "https://github.com/nthnchu/nthnchu/issues"
+  },
+  "homepage": "https://github.com/nthnchu/nthnchu#readme",
+  "devDependencies": {
+    "html-minifier": "4.0.0",
+    "nodegit": "0.27.0"
+  }
+}
