@@ -15,36 +15,37 @@
 <br />
 <div>
  <h3>Hi There 👋! Welcome to my GitHub profile!</h3>
- <ul>
-  <li>
-   <b>
+ <b>
+  <ul>
+   <li>
     🔭 I’m currently working on:
-   </b>
-   <br /><br />
-   <img alt="rayyansaidi-com/app" src="https://github-readme-stats.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme={{ random_theme }}">
-  </li>
-  <!--<li>
-   🌱 I’m currently learning ...
-  </li>
-  <li>
-   👯 I’m looking to collaborate on ...
-  </li>
-  <li>
-   🤔 I’m looking for help with ...
-  </li>
-  <li>
-   💬 Ask me about ...
-  </li>
-  <li>
-   📫 How to reach me: ...
-  </li>
-  <li>
-   😄 Pronouns: ...
-  </li>
-  <li>
-   ⚡ Fun fact: ...
-  </li>-->
- </ul>
+    <br />
+    <br />
+    <img alt="rayyansaidi-com/app" src="https://github-readme-stats.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme={{ random_theme }}">
+   </li>
+   <!--<li>
+    🌱 I’m currently learning ...
+   </li>
+   <li>
+    👯 I’m looking to collaborate on ...
+   </li>
+   <li>
+    🤔 I’m looking for help with ...
+   </li>
+   <li>
+    💬 Ask me about ...
+   </li>
+   <li>
+    📫 How to reach me: ...
+   </li>
+   <li>
+    😄 Pronouns: ...
+   </li>
+   <li>
+    ⚡ Fun fact: ...
+   </li>-->
+  </ul>
+ </b>
 </div>
 <!--
 **nthnchu/nthnchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
