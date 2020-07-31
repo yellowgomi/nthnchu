@@ -14,9 +14,34 @@
 <hr />
 <br />
 <div>
-  <h1>
-   Hi 👋! Welcome to my profile!
-  </h1>
+ <h3>Hi There 👋! Welcome to my GitHub profile!</h3>
+ <ul>
+  <li>
+   🔭 I’m currently working on: <br />
+   <img src="https://github-readme-stats.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme={{ random_theme }}">
+  </li>
+  <!--<li>
+   🌱 I’m currently learning ...
+  </li>
+  <li>
+   👯 I’m looking to collaborate on ...
+  </li>
+  <li>
+   🤔 I’m looking for help with ...
+  </li>
+  <li>
+   💬 Ask me about ...
+  </li>
+  <li>
+   📫 How to reach me: ...
+  </li>
+  <li>
+   😄 Pronouns: ...
+  </li>
+  <li>
+   ⚡ Fun fact: ...
+  </li>-->
+ </ul>
 </div>
 <!--
 **nthnchu/nthnchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
