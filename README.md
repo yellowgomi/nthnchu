@@ -1,13 +1,13 @@
  <div align="center">
   <p>
-   Random npm expansion:<br />nom,  please more
+   Random npm expansion:<br />Nuclear Powered Marshmallows
   </p>
   <h1 align="center">
     Nathan Chu&nbsp;&nbsp;&nbsp;<a href="https://nathanchu.com/"><img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/link.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/nthnchu"><img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/github-mark.svg" /></a></h1>
   <div align="center">
-    <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&cache_seconds=1800&count_private=true&line_height=27&theme=prussian&show_icons=true" />
+    <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&cache_seconds=1800&count_private=true&line_height=27&theme=buefy&show_icons=true" />
     &nbsp;&nbsp;&nbsp;
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthnchu&cache_seconds=1800&theme=prussian" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthnchu&cache_seconds=1800&theme=buefy" />
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
   </div>
 </div>
@@ -17,8 +17,11 @@
  <h3>Hi There 👋! Welcome to my GitHub profile!</h3>
  <ul>
   <li>
-   🔭 I’m currently working on: <br />
-   <img src="https://github-readme-stats.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme=prussian">
+   <b>
+    🔭 I’m currently working on:
+   </b>
+   <br />
+   <img src="https://github-readme-stats.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme=buefy">
   </li>
   <!--<li>
    🌱 I’m currently learning ...
