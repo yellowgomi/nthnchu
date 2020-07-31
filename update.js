@@ -12,7 +12,7 @@ fs.readFile('src/README.md', 'utf8', function (err,data) {
   }
   data = data.replace(/{{ random_theme }}/g, random_theme);
   data = data.replace(/{{ npm_expansion }}/g, npm_expansion)
-  fs.writeFile("README.md", result, 'utf8', function (err) {
+  fs.writeFile("README.md", data, 'utf8', function (err) {
      if (err) return console.error(err);
   });
 });
