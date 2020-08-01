@@ -26,7 +26,6 @@
    </li>
    <br />
    <br />
-   <br />
    <li>
     🌱 I’m currently learning:
     <br />
