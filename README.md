@@ -1,13 +1,13 @@
  <div align="center">
   <p>
-   Random npm expansion:<br />N00b's Programming Machine
+   Random npm expansion:<br />NASA Proceeds to Mars
   </p>
   <h1 align="center">
     Nathan Chu&nbsp;&nbsp;&nbsp;<a href="https://nathanchu.com/"><img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/link.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/nthnchu"><img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/github-mark.svg" /></a></h1>
   <div align="center">
-    <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&cache_seconds=1800&count_private=true&line_height=27&theme=synthwave&show_icons=true" />
+    <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nthnchu&cache_seconds=1800&count_private=true&line_height=27&theme=blue-green&show_icons=true" />
     &nbsp;&nbsp;&nbsp;
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthnchu&cache_seconds=1800&theme=synthwave" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthnchu&cache_seconds=1800&theme=blue-green" />
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
   </div>
 </div>
@@ -15,18 +15,25 @@
 <br />
 <div>
  <h3>Hi There 👋! Welcome to my GitHub profile!</h3>
+ <br />
  <b>
   <ul>
    <li>
     🔭 I’m currently working on:
     <br />
     <br />
-    <img alt="rayyansaidi-com/app" src="https://github-readme-stats.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme=synthwave">
+    <img alt="rayyansaidi-com/app" src="https://github-readme-stats.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme=blue-green">
+   </li>
+   <br />
+   <br />
+   <br />
+   <li>
+    🌱 I’m currently learning:
+    <br />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=facebook&repo=react&cache_seconds=1800&theme=blue-green" >
    </li>
    <!--<li>
-    🌱 I’m currently learning ...
-   </li>
-   <li>
     👯 I’m looking to collaborate on ...
    </li>
    <li>
