@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   Random npm expansion:<br />Needling Perl Mongers
+   Random npm expansion:<br />Nibbling Perfect Macaroni
   </p>
   <h1 align="center">
     Nathan Chu&nbsp;&nbsp;&nbsp;<a href="https://nathanchu.com/"><img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/link.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/nthnchu"><img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/github-mark.svg" /></a></h1>
