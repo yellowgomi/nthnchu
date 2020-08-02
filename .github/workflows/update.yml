@@ -26,9 +26,7 @@ jobs:
         node-version: 12.18.3
     # Runs a single command using the runners shell
     - name: Theme
-      run: |
-        yarn install
-        node update.js
+      run: node update.js
         
     - name: Push
       run: |
@@ -36,4 +34,4 @@ jobs:
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add README.md
         git commit -m "Update README.md"
-        git push https://${{ secrets.GITHUB_ACTOR }}:${{ secrets.GITHUB_TOKEN }}@github.com/nthnchu/nthnchu.git master
+        git push https://github-actions[bot]:${{ secrets.GITHUB_TOKEN }}@github.com/nthnchu/nthnchu.git master
