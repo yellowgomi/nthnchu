@@ -25,7 +25,7 @@ jobs:
       with:
         node-version: 12.18.3
     # Runs a single command using the runners shell
-    - name: Theme
+    - name: Update
       run: node update.js
         
     - name: Push
