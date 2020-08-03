@@ -1,6 +1,7 @@
  <div align="center">
   <p align="left">
    npm expansion: {{ npm_expansion }}
+   <br />
    github readme stats theme: {{ github_readme_stats_theme }}
   </p>
   <h1 align="center">
