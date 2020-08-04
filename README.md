@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Negatory. Postpone Mission.
+   npm expansion: Nightmarish Pawnshop Mystic
    <br />
    github readme stats theme: onedark
   </p>
