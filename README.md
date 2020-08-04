@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Normal Programming Mistake
+   npm expansion: Neutrino Packing Machine
    <br />
    github readme stats theme: bear
   </p>
