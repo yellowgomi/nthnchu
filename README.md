@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Naphthalene Possum Management
+   npm expansion: Nearly Post-Money
    <br />
    github readme stats theme: solarized-dark
   </p>
