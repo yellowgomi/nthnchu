@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nomming Peanut M&M's
+   npm expansion: Nana Plays Minesweeper
    <br />
    github readme stats theme: nightowl
   </p>
