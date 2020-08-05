@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Now,  Publish Me
+   npm expansion: Normal Programming Mistake
    <br />
    github readme stats theme: gruvbox
   </p>
