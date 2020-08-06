@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noun/Pronoun Mix-up
+   npm expansion: No Problem Mate
    <br />
    github readme stats theme: synthwave
   </p>
