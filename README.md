@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nourished Personal Mucus
+   npm expansion: Noodles Practicing Medicine
    <br />
    github readme stats theme: buefy
   </p>
