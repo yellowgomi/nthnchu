@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nacho Portion Monitor
+   npm expansion: November Papa Mike
    <br />
    github readme stats theme: bear
   </p>
