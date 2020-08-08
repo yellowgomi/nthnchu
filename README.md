@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noodles Practicing Medicine
+   npm expansion: Nuclear Powered Macros
    <br />
    github readme stats theme: buefy
   </p>
