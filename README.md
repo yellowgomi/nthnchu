@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nanoseconds Produce Minutes
+   npm expansion: Naturally Produced Modules
    <br />
    github readme stats theme: solarized-light
   </p>
