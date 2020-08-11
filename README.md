@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nameless Package Manager
+   npm expansion: nuǝɯ pǝɥsᴉꞁod mǝu
    <br />
    github readme stats theme: tokyonight
   </p>
