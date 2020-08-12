@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nobody Prefers Margarine
+   npm expansion: Nonchalantly Perusing Magazines
    <br />
    github readme stats theme: merko
   </p>
