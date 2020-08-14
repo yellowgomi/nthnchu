@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neon Papier Mâché
+   npm expansion: Nifty Procrastination Machine
    <br />
    github readme stats theme: cobalt
   </p>
