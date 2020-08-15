@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nuns Playing Mozart
+   npm expansion: Numerous Pancakes Munched
    <br />
    github readme stats theme: blue-green
   </p>
