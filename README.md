@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neologistic Paraphasic Mumbling
+   npm expansion: Notable Pseudocode Mashups
    <br />
    github readme stats theme: prussian
   </p>
