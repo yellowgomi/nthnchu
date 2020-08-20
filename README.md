@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Notable Peru Mariachis
+   npm expansion: Neighborly Package Megalodon
    <br />
    github readme stats theme: highcontrast
   </p>
