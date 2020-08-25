@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nascent Plasticine Materialist
+   npm expansion: Ninja Pirate Marksman
    <br />
    github readme stats theme: bear
   </p>
