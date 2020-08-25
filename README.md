@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: November: Procrastination Month
+   npm expansion: Neolithic Psychedelic Mushrooms
    <br />
    github readme stats theme: radical
   </p>
