@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Napping Peanut Monsters
+   npm expansion: Nerd Party Madness
    <br />
    github readme stats theme: vue
   </p>
