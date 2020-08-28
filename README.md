@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: N00b's Programming Machine
+   npm expansion: Needlessly Promiscuous,  Modularize!
    <br />
    github readme stats theme: dracula
   </p>
