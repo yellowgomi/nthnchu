@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nutella Per Minute
+   npm expansion: Noble Pug Mullet
    <br />
    github readme stats theme: synthwave
   </p>
