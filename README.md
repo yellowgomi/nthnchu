@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Narcissistic Preening Monarch
+   npm expansion: naM , sevitcepsreP weN
    <br />
    github readme stats theme: nightowl
   </p>
