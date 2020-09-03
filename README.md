@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nature Preceded Machines
+   npm expansion: Nonstop Pet Mewing
    <br />
    github readme stats theme: vue
   </p>
