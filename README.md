@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Novelty Palliates Malaise
+   npm expansion: Natty Precise Maverick
    <br />
    github readme stats theme: solarized-light
   </p>
