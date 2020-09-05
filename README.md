@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Numerous Philanthropic Misanthropes
+   npm expansion: Nature's Particle Manager
    <br />
    github readme stats theme: bear
   </p>
