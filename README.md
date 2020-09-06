@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nietzsche's Preposterous Moustache
+   npm expansion: Nonstop Pajama Models
    <br />
    github readme stats theme: synthwave
   </p>
