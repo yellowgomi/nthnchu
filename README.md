@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Native Package Manager
+   npm expansion: Natural Pacifist Manatees
    <br />
    github readme stats theme: gruvbox
   </p>
