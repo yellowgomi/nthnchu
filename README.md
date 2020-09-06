@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nicely Printed Maps
+   npm expansion: Nuclear Planning Manual
    <br />
    github readme stats theme: solarized-light
   </p>
