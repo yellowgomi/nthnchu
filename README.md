@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neato Polyester Material
+   npm expansion: National Poetry Month
    <br />
    github readme stats theme: blue-green
   </p>
