@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Ninja Pirate Mutants
+   npm expansion: Nutritious Potato Munchies
    <br />
    github readme stats theme: great-gatsby
   </p>
