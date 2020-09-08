@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nine Percent Milk
+   npm expansion: Naked Panda Meditations
    <br />
    github readme stats theme: radical
   </p>
