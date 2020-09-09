@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nonchalantly Performs Magic
+   npm expansion: Nebulous Program Mechanic
    <br />
    github readme stats theme: radical
   </p>
