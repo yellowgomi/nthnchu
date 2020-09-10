@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nighttime Peanut Migrations
+   npm expansion: Nefarious Pomegranate Magnate
    <br />
    github readme stats theme: onedark
   </p>
