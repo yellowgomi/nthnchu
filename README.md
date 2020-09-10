@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Push Mistakes
+   npm expansion: Naughty Pterodactyl Maid
    <br />
    github readme stats theme: prussian
   </p>
