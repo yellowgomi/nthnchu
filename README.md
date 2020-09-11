@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nana Plays Minesweeper
+   npm expansion: Nonstop Progressive Marxism
    <br />
    github readme stats theme: nightowl
   </p>
