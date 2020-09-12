@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Necessary Package Manager
+   npm expansion: Natural Preference for Minification
    <br />
    github readme stats theme: prussian
   </p>
