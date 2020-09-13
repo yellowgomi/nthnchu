@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Negatory. Postpone Mission.
+   npm expansion: Not a Package Manager
    <br />
    github readme stats theme: buefy
   </p>
