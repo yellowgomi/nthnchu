@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nighttime Pachinko Marathon
+   npm expansion: Neolithic Populous Metropolis
    <br />
    github readme stats theme: synthwave
   </p>
