@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nearsighted Prank Master
+   npm expansion: Nodding Previously Managed
    <br />
    github readme stats theme: prussian
   </p>
