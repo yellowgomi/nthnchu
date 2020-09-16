@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nincompoops Producing Methane
+   npm expansion: Nephrite Power Mace
    <br />
    github readme stats theme: vue
   </p>
