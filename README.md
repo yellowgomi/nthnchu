@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nit-Picking Magistrate
+   npm expansion: Nervously Practice Multithreading
    <br />
    github readme stats theme: onedark
   </p>
