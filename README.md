@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nervously Practice Multithreading
+   npm expansion: Neon Power Mains
    <br />
    github readme stats theme: onedark
   </p>
