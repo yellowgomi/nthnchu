@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Narcissistic,  Perfectly Modest
+   npm expansion: NuGet Package Manager
    <br />
    github readme stats theme: buefy
   </p>
