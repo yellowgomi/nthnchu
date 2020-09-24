@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nemo's Parental Misguidance
+   npm expansion: Nothing Plus Modules
    <br />
    github readme stats theme: highcontrast
   </p>
