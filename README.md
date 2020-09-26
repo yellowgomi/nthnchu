@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: nuǝɯ pǝɥsᴉꞁod mǝu
+   npm expansion: Notoriously Punctual Manatee
    <br />
    github readme stats theme: great-gatsby
   </p>
