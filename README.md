@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: nuǝɯ pǝɥsᴉꞁod mǝu
+   npm expansion: Naked Panda Meditations
    <br />
    github readme stats theme: tokyonight
   </p>
