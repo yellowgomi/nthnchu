@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nefarious Pomegranate Magnate
+   npm expansion: National Pest Management
    <br />
    github readme stats theme: merko
   </p>
