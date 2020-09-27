@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noncollinear Perpendicular Microcrystalline
+   npm expansion: Non Productive Monday
    <br />
    github readme stats theme: vue
   </p>
