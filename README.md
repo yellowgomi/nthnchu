@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Note: Purchase Milk
+   npm expansion: Nice Poodle,  Mister
    <br />
    github readme stats theme: algolia
   </p>
