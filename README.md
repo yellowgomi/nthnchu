@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neutron Polarization Manipulator
+   npm expansion: Nifty Penguin Magic
    <br />
    github readme stats theme: monokai
   </p>
