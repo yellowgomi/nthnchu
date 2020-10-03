@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neptunian Parity Mnemonic
+   npm expansion: nuǝɯ pǝɥsᴉꞁod mǝu
    <br />
    github readme stats theme: onedark
   </p>
