@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nightly Piano Man
+   npm expansion: Nemo's Parental Misguidance
    <br />
    github readme stats theme: highcontrast
   </p>
