@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newsworthy Presidential Mistakes
+   npm expansion: Notorious Preying Mantis
    <br />
    github readme stats theme: merko
   </p>
