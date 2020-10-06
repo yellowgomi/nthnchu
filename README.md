@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: National Palace Museum
+   npm expansion: Numbers Produce Meaning
    <br />
    github readme stats theme: solarized-light
   </p>
