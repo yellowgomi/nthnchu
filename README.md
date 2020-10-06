@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nonstick Pancake Maker
+   npm expansion: Ninja Party Manager
    <br />
    github readme stats theme: blue-green
   </p>
