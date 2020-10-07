@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nesting Penguins Molt
+   npm expansion: npm promulgates marsupials
    <br />
    github readme stats theme: synthwave
   </p>
