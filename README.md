@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Narcoleptic Programmers' Medicine
+   npm expansion: N00b's Programming Machine
    <br />
    github readme stats theme: algolia
   </p>
