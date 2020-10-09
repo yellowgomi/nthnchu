@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Network Processor Module
+   npm expansion: Neuron Powered Motorization
    <br />
    github readme stats theme: bear
   </p>
