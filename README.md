@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: New Phone Models
+   npm expansion: Nutty Peanut Marshmallow
    <br />
    github readme stats theme: tokyonight
   </p>
