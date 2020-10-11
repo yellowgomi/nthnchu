@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nimble Polyglot Microcosm
+   npm expansion: Notorious Puppy Memes
    <br />
    github readme stats theme: bear
   </p>
