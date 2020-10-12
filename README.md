@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newton's Programmatic Measurements
+   npm expansion: Nature Preceded Machines
    <br />
    github readme stats theme: solarized-dark
   </p>
