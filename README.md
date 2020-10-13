@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neato Polyester Material
+   npm expansion: Neurologically Paralyzing Mouseovers
    <br />
    github readme stats theme: nightowl
   </p>
