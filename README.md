@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nautical Pea Maker
+   npm expansion: Naughty Pinching Mannequins
    <br />
    github readme stats theme: algolia
   </p>
