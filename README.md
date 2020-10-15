@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nevermore: a Poet's Mantra
+   npm expansion: Node's Personal Monk
    <br />
    github readme stats theme: shades-of-purple
   </p>
