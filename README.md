@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: No Pants Mafia
+   npm expansion: Naughty Praying Mantis
    <br />
    github readme stats theme: highcontrast
   </p>
