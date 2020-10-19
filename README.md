@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neural Prediction Model
+   npm expansion: National Palace Museum
    <br />
    github readme stats theme: tokyonight
   </p>
