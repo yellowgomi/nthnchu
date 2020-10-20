@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nit-Picking Magistrate
+   npm expansion: N00b Pwn M3
    <br />
    github readme stats theme: shades-of-purple
   </p>
