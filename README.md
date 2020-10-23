@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nineties Party Mix
+   npm expansion: New Prague,  Minnesota
    <br />
    github readme stats theme: shades-of-purple
   </p>
