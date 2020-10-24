@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Napoleon's Penguin Mascot
+   npm expansion: Named Pipe Mechanism
    <br />
    github readme stats theme: prussian
   </p>
