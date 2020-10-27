@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Namibian Pyjama Merchant
+   npm expansion: Nonsense Poetry Manager
    <br />
    github readme stats theme: dracula
   </p>
