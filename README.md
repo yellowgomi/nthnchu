@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Naughty Pinching Mannequins
+   npm expansion: National Pizza Magistrate
    <br />
    github readme stats theme: nightowl
   </p>
