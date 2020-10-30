@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Program Mad
+   npm expansion: Nonlinear Performance Magnification
    <br />
    github readme stats theme: cobalt
   </p>
