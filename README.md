@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newlywed Party Monsters
+   npm expansion: Neverending Perpetual Motion
    <br />
    github readme stats theme: buefy
   </p>
